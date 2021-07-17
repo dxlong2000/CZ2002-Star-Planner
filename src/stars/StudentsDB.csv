@@ -1,0 +1,17 @@
+name,matricNum,email,networkID,gender,nationality,school,year,sem,programme,AUs,numRegistered,numWaitlisted,registeredCourses,waitlistedCourses
+Tiviatis,U1000,d190003@e.ntu.edu.sg,N1000,F,Singaporean,SCSE,2,2,CS,0,0,0
+Kimberley,U1940,M190169@e.ntu.edu.sg,N1940,F,Malaysian,SPMS,2,2,MACS,0,0,0
+Geremie,U2000,m190085@e.ntu.edu.sg,N2000,M,Singaporean,SPMS,2,2,MACS,0,0,0
+Long,U3000,xuanlong001@e.ntu.edu.sg,N3000,M,Vietnamese,SPMS,2,2,MACS,0,0,0
+Hao Cheng,U4000,liha0019@e.ntu.edu.sg,N4000,M,Chinese,SCSE,2,2,CS,0,0,0
+Peppy,U5000,n5000@e.ntu.edu.sg,N5000,F,Malaysian,SPMS,1,1,MACS,0,0,0
+Shin Wen,U5500,n5500@e.ntu.edu.sg,N5500,F,Malaysian,SPMS,3,2,MAS,0,0,0
+Sushi,U6000,n6000@u.ntu.edu.sg,N6000,F,Malaysian,SPMS,1,1,MACS,0,0,0
+Tom,U6500,n6500@a.ntu.edu.sg,N6500,M,Indian,SPMS,2,2,MACS,18,0,0
+Ruong Le,U6600,n6600@e.ntu.edu.sg,N6600,F,Malaysian,SPMS,4,1,MAS,0,0,0
+Duchess,U7000,n7000@u.ntu.edu.sg,N7000,F,Malaysian,SPMS,1,2,MACS,0,0,0
+Tiffany,U7700,n7700@i.ntu.edu.sg,N7700,F,Malaysian,SPMS,4,2,MAS,0,0,0
+Doggie,U8000,n8000@o.ntu.edu.sg,N8000,F,Malaysian,SPMS,1,2,MACS,0,0,0
+Jun An,U8800,n8800@n.ntu.edu.sg,N8800,M,Singaporean,SPMS,2,1,MAS,0,0,0
+Yifan,U9000,n9000@i.ntu.edu.sg,N9000,M,Chinese,SCSE,3,1,CS,0,0,0
+Jasraj,U9900,n9900@a.ntu.edu.sg,N9900,M,Indian,SPMS,2,2,MACS,0,0,0

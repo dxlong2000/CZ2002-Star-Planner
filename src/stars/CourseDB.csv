@@ -1,0 +1,6 @@
+courseName,courseCode,school,examSchedule,numAU,availableFor
+Object Oriented Design & Programming,CZ2002,SCSE,25/11/20 1700-1900,3,MACS_CS_
+Algorithms,CZ2001,SCSE,24/11/20 0900-1100,3,MACS_CS_
+Calculus III,MH2100,SPMS,24/11/20 1300-1500,4,MACS_MAS_
+Probability,MH2500,SPMS,03/12/20 0900-1100,4,MACS_MAS_
+Computer Graphics,CZ2003,SCSE,01/12/20 0900-1100,3,MACS_CS_
